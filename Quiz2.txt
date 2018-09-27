@@ -1,0 +1,34 @@
+Que1
+Option - C(ERROR)
+SYNTAX ERROR
+
+Que2
+Option - A(ERROR)
+INVALID SYNTAX
+name 'join' is not defined
+
+Que3
+Option - D(ERROR)
+run time error, no output is there 
+
+Que4
+Option - D(None of the above)
+SYNTAX ERROR
+"z(6)" is not enclosed in parenthesis
+
+Que5
+Option - D(Method)
+because function is defined inside a class, therefore, method is called
+
+Que6
+Option - A(ID returns the identity of the object)
+identity has to be unique
+
+Que7
+Option - C([3,5,20,5,25,1,3])
+2nd element is removed as list index start from 0
+
+Que8
+it gives ERROR, name 'time' is not defined
+after importing package "time"
+Option - D(the current time in milliseconds since midnight, january 1, 1970)
